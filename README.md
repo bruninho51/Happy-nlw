@@ -1,7 +1,4 @@
-<h1 align="center">
-    <img src="src/images/logo.svg">
-    Happy
-</h1>
+<img src="src/images/happy.png">
 
 ## 💻 Projeto
 Projeto desenvolvido através da Next Level Week da RocketSeat. O Happy é um sistema que conecta pessoas a orfanatos próximos, para realização de visitas. 
